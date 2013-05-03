@@ -1,7 +1,7 @@
 ## 浏览器在文件列表中产生的2个后退问题和1个衍生问题 ##
 *	系统:`XP SP3`
 *	浏览器:`IE8,谷歌26,火狐20`  
-__以下问题重现当中会一直使用[oschina/git-osc](http://git.oschina.net/oschina/git-osc)这个仓库,其他仓库也有同样的问题__  
+以下问题重现当中会一直使用[oschina/git-osc](http://git.oschina.net/oschina/git-osc)这个仓库,其他仓库也有同样的问题  
 ***
 
 ## 点击文件名情况下的后退问题: ##
